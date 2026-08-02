@@ -1,0 +1,12 @@
+{
+  "dependencies": {
+    "com.unity.modules.ai": "1.0.0",
+    "com.unity.modules.animations": "1.0.0",
+    "com.unity.modules.assetbundle": "1.0.0",
+    "com.unity.modules.physics": "1.0.0",
+
+    "com.unity.inputsystem": "1.7.0",
+    "com.unity.transport": "1.5.0",
+    "com.unity.netcode.gameobjects": "1.5.0"
+  }
+}
